@@ -1,0 +1,46 @@
+uniprot,ref1,ref2,chains_match_ours,tm_table,tm_ours_d0eq3.5,agree_within_0.06,note
+A2RJ53,3fto_A,3drf_A,True,0.507,0.425,False,numbering/NMR-model artifact of naive resseq intersection; structural alignment (TMalign) immune
+O76728,4bp8_A,4bp9_A,True,0.523,0.489,True,
+P31133,6yed_A,6ye0_A,True,0.565,0.519,True,
+P00558,2xe6_A,2wzd_A,True,0.598,0.548,True,
+P40131,3tee_A,3vjp_A,True,0.612,0.566,True,
+Q7DAU8,3l6g_A,3l6h_A,True,0.617,0.566,True,
+P21589,7qga_A,4h2i_A,True,0.621,0.606,True,
+A0QTT2,7cy2_A,7cyr_A,True,0.633,0.773,False,numbering/NMR-model artifact of naive resseq intersection; structural alignment (TMalign) immune
+Q5F9M1,3zsf_A,2yln_A,True,0.636,0.472,False,numbering/NMR-model artifact of naive resseq intersection; structural alignment (TMalign) immune
+Q9X6R4,3iuj_A,3iuq_A,True,0.648,0.598,True,
+Q18A65,6hnj_A,6hni_A,True,0.656,0.545,False,numbering/NMR-model artifact of naive resseq intersection; structural alignment (TMalign) immune
+Q9ERE7,2rqm_A,2rqk_A,True,0.664,0.505,False,numbering/NMR-model artifact of naive resseq intersection; structural alignment (TMalign) immune
+P62495,2ktv_A,2ktu_A,True,0.708,0.711,True,
+A0A075Q0W3,6mka_A,6mkj_A,True,0.720,0.669,True,
+P71447,2wfa_A,2wf5_A,True,0.748,0.703,True,
+P33284,3o6w_A,3o8m_A,True,0.749,0.739,True,
+Q9Z4N6,1si1_A,1si0_A,True,0.749,0.704,True,
+A6UVT1,6hac_A,6hae_A,True,0.754,0.521,False,numbering/NMR-model artifact of naive resseq intersection; structural alignment (TMalign) immune
+B7IE18,6nc7_A,6nc6_A,True,0.755,0.749,True,
+B3EYN2,5ho2_A,5ho0_A,True,0.766,0.750,True,
+Q53W80,7c63_A,7c66_A,True,0.781,0.775,True,
+Q9SS90,6k8b_A,6k85_B,True,0.824,0.823,True,
+Q9X9P9,2olo_A,2oln_A,True,0.837,0.818,True,
+Q82GL5,7cl7_A,7cl8_A,,0.851,0.811,True,
+P61316,2zpd_A,2zpc_A,,0.855,0.850,True,
+P0A4G2,4uto_A,4utp_A,,0.857,0.871,True,
+Q9UBV7,4irp_A,4irq_A,,0.862,0.911,True,
+P76045,2iwv_A,2iww_A,,0.884,0.882,True,
+P48635,2wio_A,2jjn_A,,0.889,0.874,True,
+Q8A5V9,3quq_A,3qu2_A,,0.895,0.878,True,
+A0R629,5eqd_B,5eqd_A,,0.898,0.897,True,
+P18031,5k9v_A,5k9w_A,,0.900,0.961,False,numbering/NMR-model artifact of naive resseq intersection; structural alignment (TMalign) immune
+A0A1J6PWI8,6jmx_A,6jmy_A,,0.908,0.912,True,
+P29350,4hjp_A,4hjq_A,,0.912,0.911,True,
+P0CG48,3ns8_A,2n2k_A,,0.922,0.923,True,
+P9WNX1,4klx_A,6nni_A,,0.923,0.911,True,
+P15291,2fy7_A,2fyc_B,,0.925,0.187,False,numbering/NMR-model artifact of naive resseq intersection; structural alignment (TMalign) immune
+C7C425,6xcs_A,6xcq_A,,0.938,0.961,True,
+P14902,7p0n_A,7nge_A,,0.946,0.981,True,
+O34926,3nc3_A,3nc3_B,,0.949,0.961,True,
+Q72HW2,5afa_A,6tyr_A,,0.970,0.970,True,
+P18965,3s9b_A,3s9a_A,,0.986,0.986,True,
+Q9U6Y3,6qsm_A,6qsl_A,,0.987,0.983,True,
+J9UN47,4psp_A,4ni3_A,,0.990,0.989,True,
+P00918,3m1q_A,3m1w_A,,0.996,0.988,True,

@@ -1,0 +1,26 @@
+name,set,L_input,matched_ref1,matched_ref2,shared,id1,id2,ref_rmsd,rmsd_table,warning
+a2rj53,oc23,590,546,539,526,1.000,1.000,5.07,4.66,TM_INFO: ours 0.76 vs table 0.51 (not a gate);length mismatch (input 590 vs table 576)
+o76728,oc23,715,695,710,693,1.000,1.000,5.02,4.31,TM_INFO: ours 0.81 vs table 0.52 (not a gate)
+p31133,oc23,352,341,341,341,1.000,1.000,4.22,3.79,TM_INFO: ours 0.76 vs table 0.56 (not a gate);length mismatch (input 352 vs table 343)
+p00558,oc23,417,413,405,403,1.000,0.998,3.91,3.62,TM_INFO: ours 0.81 vs table 0.60 (not a gate)
+p40131,oc23,219,206,194,189,1.000,1.000,10.99,2.48,length mismatch (input 219 vs table 197)
+q7dau8,oc23,256,256,254,254,1.000,1.000,3.54,3.34,TM_INFO: ours 0.76 vs table 0.62 (not a gate)
+p21589,oc23,547,523,523,523,1.000,0.996,11.08,4.27,length mismatch (input 547 vs table 522)
+a0qtt2,oc23,439,320,395,320,1.000,1.000,4.14,2.8,TM_INFO: ours 0.87 vs table 0.63 (not a gate)
+q5f9m1,oc23,283,237,240,237,1.000,1.000,5.75,3.45,length mismatch (input 283 vs table 258)
+q9x6r4,oc23,693,662,667,659,1.000,0.999,3.65,3.33,TM_INFO: ours 0.87 vs table 0.65 (not a gate)
+q18a65,oc23,319,297,295,295,1.000,1.000,4.03,3.01,
+q9ere7,oc23,141,141,109,109,1.000,1.000,20.62,1.6,nmr_medoid: model 4 of 20;nmr_medoid: model 17 of 20
+p62495,oc23,170,164,164,164,1.000,1.000,4.88,3.12,nmr_medoid: model 4 of 24;nmr_medoid: model 22 of 24;length mismatch (input 170 vs table 161)
+a0a075q0w3,oc23,643,640,621,621,1.000,1.000,7.47,3.46,
+p71447,oc23,221,221,218,218,1.000,1.000,3.45,2.92,ref_rmsd<3.5: scaled basin threshold applies
+p33284,oc23,485,467,472,467,1.000,1.000,3.40,3.14,TM_INFO: ours 0.88 vs table 0.75 (not a gate);ref_rmsd<3.5: scaled basin threshold applies
+q9z4n6,oc23,320,316,316,316,1.000,1.000,2.73,2.4,TM_INFO: ours 0.87 vs table 0.75 (not a gate);ref_rmsd<3.5: scaled basin threshold applies
+a6uvt1,oc23,342,342,342,342,1.000,1.000,4.15,2.88,
+b7ie18,oc23,475,469,466,466,1.000,1.000,3.32,2.79,TM_INFO: ours 0.90 vs table 0.76 (not a gate);ref_rmsd<3.5: scaled basin threshold applies
+b3eyn2,oc23,848,803,801,801,1.000,1.000,3.73,3.45,TM_INFO: ours 0.90 vs table 0.77 (not a gate)
+q53w80,oc23,423,416,418,416,1.000,1.000,2.10,2.04,TM_INFO: ours 0.93 vs table 0.78 (not a gate);ref_rmsd<3.5: scaled basin threshold applies;length mismatch (input 423 vs table 415)
+q9ss90,oc23,301,280,282,280,1.000,0.996,3.41,2.18,ref_rmsd<3.5: scaled basin threshold applies;length mismatch (input 301 vs table 290)
+q9x9p9,oc23,397,393,385,385,1.000,1.000,1.76,1.76,TM_INFO: ours 0.95 vs table 0.84 (not a gate);ref_rmsd<3.5: scaled basin threshold applies;length mismatch (input 397 vs table 388)
+adk,ms15,214,214,214,214,1.000,1.000,7.13,,
+rfah,ms15,162,141,161,141,1.000,1.000,16.82,,

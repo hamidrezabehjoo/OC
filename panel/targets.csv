@@ -1,0 +1,46 @@
+name,set,uniprot,length,ref1_pdb,ref1_chain,ref1_label,ref2_pdb,ref2_chain,ref2_label,tm_pair,foldswitch,optional,status,notes,input_source,expected_state,rmsd_table
+a2rj53,oc23,A2RJ53,576,3FTO,A,open,3DRF,A,closed,0.507,0,0,excluded,OC23 (AFsample2 Table S1),ref1_seqres,ref1,4.66
+o76728,oc23,O76728,714,4BP8,A,open,4BP9,A,closed,0.523,0,0,excluded,OC23 (AFsample2 Table S1),ref1_seqres,ref1,4.31
+p31133,oc23,P31133,343,6YED,A,open,6YE0,A,closed,0.565,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,3.79
+p00558,oc23,P00558,416,2XE6,A,open,2WZD,A,closed,0.598,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,3.62
+p40131,oc23,P40131,197,3TEE,A,open,3VJP,A,closed,0.612,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,2.48
+q7dau8,oc23,Q7DAU8,253,3L6G,A,open,3L6H,A,closed,0.617,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,3.34
+p21589,oc23,P21589,522,7QGA,A,open,4H2I,A,closed,0.621,0,0,excluded,OC23 (AFsample2 Table S1),ref1_seqres,ref1,4.27
+a0qtt2,oc23,A0QTT2,438,7CY2,A,open,7CYR,A,closed,0.633,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,2.8
+q5f9m1,oc23,Q5F9M1,258,3ZSF,A,open,2YLN,A,closed,0.636,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,3.45
+q9x6r4,oc23,Q9X6R4,689,3IUJ,A,open,3IUQ,A,closed,0.648,0,0,excluded,OC23 (AFsample2 Table S1),ref1_seqres,ref1,3.33
+q18a65,oc23,Q18A65,316,6HNJ,A,open,6HNI,A,closed,0.656,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,3.01
+q9ere7,oc23,Q9ERE7,139,2RQM,A,open,2RQK,A,closed,0.664,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,1.6
+p62495,oc23,P62495,161,2KTV,A,open,2KTU,A,closed,0.708,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,3.12
+a0a075q0w3,oc23,A0A075Q0W3,639,6MKA,A,open,6MKJ,A,closed,0.72,0,0,excluded,OC23 (AFsample2 Table S1),ref1_seqres,ref1,3.46
+p71447,oc23,P71447,220,2WFA,A,open,2WF5,A,closed,0.748,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,2.92
+p33284,oc23,P33284,484,3O6W,A,open,3O8M,A,closed,0.749,0,0,excluded,OC23 (AFsample2 Table S1),ref1_seqres,ref1,3.14
+q9z4n6,oc23,Q9Z4N6,319,1SI1,A,open,1SI0,A,closed,0.749,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,2.4
+a6uvt1,oc23,A6UVT1,341,6HAC,A,open,6HAE,A,closed,0.754,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,2.88
+b7ie18,oc23,B7IE18,474,6NC7,A,open,6NC6,A,closed,0.755,0,0,excluded,OC23 (AFsample2 Table S1),ref1_seqres,ref1,2.79
+b3eyn2,oc23,B3EYN2,847,5HO2,A,open,5HO0,A,closed,0.766,0,0,excluded,OC23 (AFsample2 Table S1),ref1_seqres,ref1,3.45
+q53w80,oc23,Q53W80,415,7C63,A,open,7C66,A,closed,0.781,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,2.04
+q9ss90,oc23,Q9SS90,290,6K8B,A,open,6K85,B,closed,0.824,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,2.18
+q9x9p9,oc23,Q9X9P9,388,2OLO,A,open,2OLN,A,closed,0.837,0,0,ready,OC23 (AFsample2 Table S1),ref1_seqres,ref1,1.76
+adk,ms15,P69441,214,4AKE,A,open,1AKE,A,closed,,0,0,ready,anchor system; published result (main text),ref1_seqres,ref1,
+rfah,ms15,P0AFW0,162,2OUG,A,alpha_hairpin,6C6S,D,beta_barrel,,1,0,ready,fold-switch; TM-rule basins,ref1_seqres,ref1,
+kaib,ms15,Q79V61,,,,,,,,,1,0,tbd,refs TBD from JCIM Table 2; fold-switch,ref1_seqres,ref1,
+mad2,ms15,Q13257,,,,,,,,,1,0,tbd,refs TBD from JCIM Table 2; Suzuki failure case,ref1_seqres,ref1,
+ant,ms15,G2QNH0,,,,,,,,,0,0,tbd,ADP/ATP translocase; refs TBD from JCIM Table 2,ref1_seqres,ref1,
+eftu,ms15,P0CE48,,1OB2,A,gdp_bound,,,,,0,0,tbd,second ref TBD from JCIM Table 2,ref1_seqres,ref1,
+tm_0287,tp16,,587,3QF4,A,inward,6QV1,C,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+slc1a1_out,tp16,,526,6S3Q,A,inward,6X3E,A,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+slc39,tp16,,440,6BTX,A,inward,5AYM,A,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+ptsg,tp16,,470,6BVG,A,inward,5IWS,A,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+mdfa,tp16,,410,6VS1,A,inward,6GV1,A,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+mfsd2a_out,tp16,,534,7MJS,X,inward,7N98,A,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+wlab_out,tp16,,564,5C78,A,inward,6HRC,D,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+a5u30_003247,tp16,,460,6E9N,B,inward,6E9O,B,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+pf0708,tp16,,461,6FHZ,A,inward,3VVS,A,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+murj,tp16,,475,6NC7,A,inward,6NC9,A,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+aac3_out,tp16,,322,6GCI,A,inward,4C9J,B,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+tt_c0976,tp16,,578,5MKK,B,inward,6RAJ,B,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+spf1,tp16,,1239,6XMS,A,inward,6XMU,A,outward,,0,1,ready,"TP16 (AFsample2 Table S3); sequence from ref1 SEQRES; 1239 aa - excluded by Suzuki for cost, skipped by default",ref1_seqres,ref1,
+melb,tp16,,486,7L17,A,inward,4M64,A,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+cyme_cmd148c_out,tp16,,620,6A6N,A,inward,7DQV,A,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
+tm_0287v2,tp16,,599,4Q4A,B,inward,6QV1,B,outward,,0,1,ready,TP16 (AFsample2 Table S3); sequence from ref1 SEQRES,ref1_seqres,ref1,
